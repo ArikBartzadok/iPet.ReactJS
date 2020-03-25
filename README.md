@@ -3,7 +3,8 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT) 
 
 # iPet
-O iPet trata-se de um sistema web cujo objetivo principal é, de forma simples e direta, criar uma "ponte" entre ONG's e voluntários com o intuito de proporcionar mais agilidade e facilidade para com relação aos processos de adoção, doação e ações voluntárias referentes aos mesmos.
+
+The iPet is a web system whose main objective is to, simply and directly, create a "bridge" between NGOs and volunteers in order to provide more agility and ease in relation to the processes of adoption, donation and voluntary actions related to them.
 
 </div>
 
