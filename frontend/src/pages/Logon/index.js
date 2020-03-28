@@ -29,7 +29,7 @@ export default function Logon(){
     return(
         <div className='logon-container'>
             <section className='form'>
-                <img src={ logoImg } alt='Be The Hero' />
+                <img src={ logoImg } className='img-logo' alt='Be The Hero' />
                 <form onSubmit={ handleLogon }>
                     <h1>Make your Logon</h1>
                     <input
@@ -49,7 +49,7 @@ export default function Logon(){
                     </Link>
                 </form>
             </section>
-            <img src={ PetImg } alt='Heroes' />
+            <img src={ PetImg } className='img-banner' alt='Heroes' />
         </div>
     )
 }

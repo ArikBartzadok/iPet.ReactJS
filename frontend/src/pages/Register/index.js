@@ -39,8 +39,8 @@ export default function Register(){
     return(
         <div className='register-container'>
             <div className='content'>
-                <section>
-                    <img src={ logoImg } alt='Be The Hero' />
+                <section className='description'>
+                    <img src={ logoImg } className='logo-register' alt='Be The Hero' />
                     <h1>Register</h1>
                     <p>Register, enter the platform and help people find the cases of your NGO.</p>
                     <Link className='back-link' to='/'>
