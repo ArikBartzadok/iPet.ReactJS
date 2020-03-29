@@ -4,7 +4,7 @@
 
 # iPet
 
-The iPet is a web system whose main objective is to, simply and directly, create a "bridge" between NGOs and volunteers in order to provide more agility and ease in relation to the processes of adoption, donation and voluntary actions related to them.
+🐾 The iPet is a web system whose main objective is to, simply and directly, create a "bridge" between NGOs and volunteers in order to provide more agility and ease in relation to the processes of adoption, donation and voluntary actions related to them.
 
 </div>
 
